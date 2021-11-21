@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Full data file (too big to commit to github)
+bty7-2jhb.tsv.gz
