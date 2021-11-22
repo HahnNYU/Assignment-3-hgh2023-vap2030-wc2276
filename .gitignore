@@ -130,3 +130,5 @@ dmypy.json
 
 # Full data file (too big to commit to github)
 bty7-2jhb.tsv.gz
+
+resultCols.csv
