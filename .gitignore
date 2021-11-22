@@ -132,3 +132,5 @@ dmypy.json
 bty7-2jhb.tsv.gz
 
 resultCols.csv
+
+.DS_Store
